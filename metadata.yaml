@@ -1,0 +1,37 @@
+_repo: The-Girl-Scouts-at-Singing-Sands_60977
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Geyer, Marguerite
+    gutenberg_agent_id: '51210'
+    url: http://www.gutenberg.org/2009/agents/51210
+creator:
+  author:
+    agent_name: Wirt, Mildred A. (Mildred Augustine)
+    aliases:
+    - Benson, Mildred Wirt
+    - Wirt, Ann
+    - Wirt, Mildred Augustine
+    - Augustine, Mildred
+    - Benson, Millie
+    birthdate: 1905
+    deathdate: 2002
+    gutenberg_agent_id: '37000'
+    url: http://www.gutenberg.org/2009/agents/37000
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/48455
+    - http://www.gutenberg.org/ebooks/author/36376
+    - http://en.wikipedia.org/wiki/Mildred_Benson
+description: ''
+gutenberg_issued: '2019-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60977'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Girl Scouts at Singing Sands
+url: http://www.gutenberg.org/ebooks/60977
